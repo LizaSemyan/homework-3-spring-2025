@@ -11,6 +11,22 @@
 
 Ссылка: [https://ads.vk.com/hq/audience](https://ads.vk.com/hq/audience)
 
-## Рекламная кампания
+### Если нет созданных аудиторий, то отображается сообщение "Аудиторий пока нет", кнопка "Создать аудиторию", кнопка меню, ссылка "Как работают аудитории"
+
+![No audience](img/no_audience.png)
+
+### При нажатии на кнопку "Создать аудиторию" открывается окно создания аудитории
+
+![Create audience](img/create_audience.png)
+
+### При нажатии на кнопку меню открываются пункты меню "Активировать внешнюю аудиторию" и "Перенести аудитории из кабинета ВКонтакте"
+
+![Open menu](img/open_menu.png)
+
+### При нажатии на ссылку "Как работают аудитории" происходит переход на страницу https://ads.vk.com/help/features/audiences_lists/audiences
+
+![Open help](img/open_help_audience.png)
+
+## Рекламные кампании
 
 Ссылка: [https://ads.vk.com/hq/dashboard](https://ads.vk.com/hq/dashboard)
