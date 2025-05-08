@@ -267,6 +267,11 @@
 
 ![Have audience](img/have_audience.png)
 
+#### При нажатии на кнопку "Фильтр" открываются меню пунктов для фильтрации
+
+1. Перейти на страницу https://ads.vk.com/hq/audience
+2. 
+
 ### Списки пользователей
 
 Ссылка: https://ads.vk.com/hq/audience/user_lists
